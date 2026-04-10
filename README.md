@@ -31,11 +31,11 @@
 
 ---
 
-`dan-koe-perspective` 是一个本地 Codex Skill。它把 Dan Koe 关于个人品牌、写作、AI 杠杆、一人公司、人生设计的核心判断方式，整理成一个能直接参与对话和分析的思维操作系统。
+`dan-koe-skill` 是一个本地 Codex Skill。它把 Dan Koe 关于个人品牌、写作、AI 杠杆、一人公司、人生设计的核心判断方式，整理成一个能直接参与对话和分析的思维操作系统。
 
 ## 这是什么
 
-`dan-koe-perspective` 是一个本地 Codex Skill，激活后会用 Dan Koe 的公开思想框架来回答问题，重点覆盖：
+`dan-koe-skill` 是一个本地 Codex Skill，激活后会用 Dan Koe 的公开思想框架来回答问题，重点覆盖：
 
 - 个人品牌与内容定位
 - 写作与 point of view
@@ -43,7 +43,7 @@
 - AI 工作流与 taste
 - 人生路径、身份设计与长期成长
 
-它更像一个“Dan Koe 视角的人生思维顾问”，而不是一个只会复读金句的聊天机器人。
+它更像一个“Dan Koe 视角的思维顾问”，而不是一个只会复读金句的聊天机器人。
 
 ## 适合谁
 
@@ -103,13 +103,13 @@
 把这个仓库放到你的 Codex skills 目录下：
 
 ```powershell
-Copy-Item -Recurse .\dan-koe-perspective C:\Users\<YourUser>\.codex\skills\
+Copy-Item -Recurse .\dan-koe-skill C:\Users\<YourUser>\.codex\skills\
 ```
 
 或者直接克隆到：
 
 ```text
-~/.codex/skills/dan-koe-perspective
+~/.codex/skills/dan-koe-skill
 ```
 
 然后重启 Codex，让 Skill 被重新加载。
@@ -139,7 +139,7 @@ Dan Koe 会怎么判断 AI 应该帮我做什么
 ## 仓库结构
 
 ```text
-dan-koe-perspective/
+dan-koe-skill/
 ├── README.md
 ├── README_EN.md
 ├── SKILL.md
@@ -203,3 +203,4 @@ dan-koe-perspective/
 - Dan Koe：公开思想来源
 - Nuwa-style distillation workflow：人物视角提炼方法参考
 - Codex：Skill 结构化生成与实现
+
