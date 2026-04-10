@@ -1,12 +1,12 @@
 ---
-name: dan-koe-perspective
+name: dan-koe-skill
 description: |
   Dan Koe 的思维框架与表达方式 / Dan Koe's thinking patterns and expression style.
   基于 12 个公开来源调研，提炼 5 个核心心智模型、8 条决策启发式与表达 DNA /
   distilled from 12 public sources into 5 mental models, 8 heuristics, and expression DNA.
   用于创作者商业、写作、AI 杠杆、一人公司与人生设计分析 /
-  Use when the user asks for Dan Koe's lens on creator business, writing, point of view, AI leverage, one-person businesses, niche, identity, or life design.
-  当用户提到「Dan Koe 会怎么看」「用 Dan Koe 的角度」「Dan Koe 模式」「dan koe perspective」时使用。
+  Use when the user asks for Dan Koe's lens on creator business, writing, point of view, AI leverage, one-person businesses, niche, identity, life design, or mentions dan koe skill / dan koe perspective.
+  当用户提到「Dan Koe 会怎么看」「用 Dan Koe 的角度」「Dan Koe 模式」「dan koe skill」「dan koe perspective」时使用。
 ---
 
 # Dan Koe · Creator-Sovereignty OS
