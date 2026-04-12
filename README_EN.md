@@ -2,201 +2,254 @@
 
 # Dan Koe.skill
 
-> *"You don't need a niche, you need a point of view."*
+> *Instead of chasing gurus, distill them. Plug into a top creator's digital brain.*
 
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-Skill-black)](https://openai.com/codex/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Research](https://img.shields.io/badge/Research-12%20Sources-blue)](#research-sources)
-[![Dan Koe](https://img.shields.io/badge/Dan%20Koe-Creator%20OS-blueviolet)](#core-themes)
-[![Runnable](https://img.shields.io/badge/Perspective-Runnable-orange)](#usage)
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-Skill-black)](https://openai.com/codex/)
+[![Bilingual](https://img.shields.io/badge/Bilingual-ZH%20%2F%20EN-2ea44f)](README.md)
+[![Research](https://img.shields.io/badge/Research-33%20Indexed%20Sources-blue)](#research-base)
+[![Structured](https://img.shields.io/badge/Structured-29%20Summaries-orange)](#research-base)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io/)
 
 <br>
 
-**A runnable Codex skill distilled from Dan Koe's thinking on writing, personal brand, AI leverage, and one-person businesses.**
+**You may have watched Dan Koe's videos a hundred times, saved every newsletter, and copied every high-performing framework.**  
+**But the thing you actually need to hold onto is not a quote. It is the thinking system behind how he builds content, products, personal brand, and a one-person business.**
 
 <br>
 
-Not a voice clone. Not a quote generator.<br>
-This is a research-backed, structured perspective skill built from Dan Koe's public ideas.<br>
-Use it to analyze content positioning, creator businesses, AI workflow, and life design.
+Instead of chasing gurus, distill them.  
+Plug into a top creator's digital brain.
 
-[Installation](#installation) · [Usage](#usage) · [What It Contains](#what-this-skill-contains) · [Research Sources](#research-sources)
+[Product Value](#product-value) | [What It Helps With](#what-it-helps) | [What Makes It Different](#what-makes-it-different) | [Install](#install)
 
 <br>
 
-**其他语言 / Other Languages:** [中文](README.md)
+**Chinese Version:** [README.md](README.md)
 
 </div>
 
 ---
 
-`dan-koe-skill` is a local Codex skill. It turns Dan Koe's public thinking about creator business, writing, AI leverage, one-person businesses, and life design into a runnable perspective you can directly use in conversations.
+## Pain Point
 
-## What This Is
+Watching a lot of Dan Koe does not mean you have captured the layer that actually matters.
 
-`dan-koe-skill` is a local Codex skill that responds through Dan Koe's public mental frameworks, especially for:
+The most valuable part was never:
 
-- personal brand and content positioning
-- writing and point of view
-- one-person businesses and digital leverage
-- AI workflow and taste
-- career design, identity, and long-term growth
+- a quote
+- a title formula
+- a viral framework
+- a generic personal-brand tip
 
-It works more like a Dan Koe-style thinking partner than a chatbot that simply imitates his tone.
+The most valuable part is:
 
-## Who It's For
+- how he decides what content is worth making
+- how he separates information from point of view
+- how he turns writing, brand, products, AI, and a one-person business into one system
+- how he moves from "what do I want to do?" to "what kind of life and business should I build?"
 
-This skill is useful if you:
+What most people still lack is not one more insight.  
+It is the underlying logic behind going from zero to one in content, products, personal brand, and leverage.
 
-- create content but still struggle to differentiate yourself
-- want to build a personal brand or one-person business
-- want to connect writing, products, and AI tools into one system
-- like Dan Koe's ideas but want more than surface-level quotes
-- want a second lens for rethinking career, growth, and freedom
+Instead of chasing gurus, distill them.  
+Dan Koe.skill is designed to give you a thinking system you can actually reuse.
 
-## What This Skill Contains
+<a id="product-value"></a>
+## Product Value
 
-This repository includes:
+Dan Koe.skill is built on indexed public materials already loaded into the repository, including:
 
-- 1 runnable main skill
-- 5 core mental models
-- 8 decision heuristics
-- Dan Koe's expression DNA
-- 1 agentic answering workflow
-- 6 research notes for transparency and iteration
+- YouTube scripts and transcript-based notes
+- newsletters and long-form essays
+- podcast interviews and public conversations
+- course pages and product positioning
+- social posts and short-form judgment patterns
+- distilled mental models, heuristics, and decision logic
 
-Research note structure:
+From those materials, the repository structures Dan Koe into a runnable system:
 
-- `01-writings.md`: books, essays, and long-form writing
-- `02-conversations.md`: podcast and video thinking patterns
-- `03-expression-dna.md`: language and style analysis
-- `04-external-views.md`: outside praise, critique, and interpretation
-- `05-decisions.md`: major decisions and pivots
-- `06-timeline.md`: timeline and recent activity
+## Part A — Creator Memory
 
-## How It's Different From Plain Roleplay
+This layer stores the recurring ideas, themes, frameworks, arguments, and content assets behind Dan Koe's public output.
 
-Many public "persona AI" projects end up as tone imitators.
+It is not a pile of isolated quotes.  
+It is the memory layer behind long-term creator leverage.
 
-This project tries to distill:
+## Part B — Thinking Persona
 
-- how Dan Koe frames a problem
-- what variables he tends to prioritize
-- how he links identity, writing, products, AI, and life design
-- where he is decisive and where he should remain uncertain
+This layer models how Dan Koe tends to think:
 
-The goal is not to repeat what Dan Koe has said. The goal is to approximate how he tends to think.
+- how he defines the real problem
+- how he separates symptoms from the bottleneck
+- how he judges what is worth building long-term
+- how he thinks about AI, leverage, writing, brand, and life design
+- how he turns worldview into concrete decisions
 
-## Core Themes
+The result is not a prompt that merely sounds like Dan Koe.  
+It is a creator-facing digital replica that aims to think with Dan Koe's logic, organize ideas in his style, and apply his frameworks to content and business decisions.
 
-This skill centers on these recurring Dan Koe themes:
+<a id="what-it-helps"></a>
+## What This Skill Helps With
 
-- point of view matters more than niche
-- the default life script should be questioned
-- specialized generalism beats static expertise
-- productize your mind instead of just selling time
-- AI lowers production cost, but taste remains scarce
+This skill is not built for superficial roleplay.  
+It is built for problems like:
 
-## Installation
+- **content positioning**  
+Figure out whether you are just posting information or expressing a memorable point of view.
 
-Put this repository inside your Codex skills directory:
+- **personal brand**  
+Separate "consistent posting" from becoming a person with trust, stance, narrative, and recognizability.
+
+- **one-person business design**  
+Move past surface confusion about courses, consulting, or products and return to the main loop: `content -> trust -> offer -> distribution`.
+
+- **AI workflow design**  
+Decide what can be delegated to AI and what must remain in your hands, especially taste, judgment, and final expression.
+
+- **learning systems**  
+Avoid confusing compressed information intake with actual understanding.
+
+- **life design**  
+Turn scattered interests and vague ambition into a path that can compound over time.
+
+## What You Actually Get
+
+What this skill gives you is not more information.  
+It gives you less friction and cleaner judgment.
+
+It is especially good at separating:
+
+- niche problems from POV problems
+- reach problems from trust problems
+- one-person business design from disguised time-selling
+- AI enhancement from AI dilution
+- scattered interests from the absence of a compounding axis
+
+Many people do not lack effort.  
+They lack a better decision system.
+
+That is the real value of Dan Koe.skill.
+
+<a id="what-makes-it-different"></a>
+## What Makes It Different
+
+### 1. It is not a voice imitator
+
+Many character skills are mainly built to sound like someone.  
+Dan Koe.skill cares more about **thinking the way Dan Koe frames problems**.
+
+### 2. It is not a quote repeater
+
+It is not here to recycle lines like:
+
+- be yourself
+- play long-term games
+- keep shipping
+- trust the compound effect
+
+It is here to answer harder questions:
+
+- where the real bottleneck is
+- whether your work has worldview or just information
+- whether your trust loop actually exists
+- whether your AI workflow is compressing understanding or faking it
+
+### 3. It does not stay abstract
+
+It tries to land worldview in practical decisions about:
+
+- content
+- brand
+- offers
+- one-person business design
+- AI workflow
+
+### 4. It is not a one-off prompt
+
+This is not just "a README plus a spell."
+
+Behind it sits a growing research stack with corpus files, a source index, structured summaries, normalized notes, and distilled research layers.
+
+That makes it closer to a creator research repository than a screenshot-friendly prompt page.
+
+<a id="research-base"></a>
+## Research Base
+
+This version is built on public Dan Koe materials and currently includes:
+
+- official essays and newsletters
+- official course and landing pages
+- `The Koe Cast`
+- YouTube, X, and LinkedIn entry points plus indexed individual items
+- transcript summaries and mirror captures where needed
+- structured summaries and normalized notes
+
+The repository currently includes:
+
+- `33` indexed sources
+- `29` structured summaries
+- `corpus/source-index.csv`
+- `corpus/normalized/`
+- `references/research/`
+
+The goal is not to mechanically repeat what Dan Koe has said.  
+The goal is to get closer to a more useful question:
+
+**How would Dan Koe actually frame and judge this problem?**
+
+## Best For
+
+This skill is especially useful for:
+
+- creators
+- people building personal brands
+- freelancers trying to move toward leverage
+- digital product builders
+- people exploring one-person business paths
+- people thinking deeply about AI, leverage, and life design
+
+## Example Prompts
+
+```text
+Use Dan Koe's lens to explain why my content still feels generic
+How would Dan Koe think about my one-person business path right now
+I have too many interests. How do I turn them into a point-of-view brand
+If I wanted to build a digital product, where would Dan Koe tell me to start
+How would Dan Koe decide what AI should replace and what it should not
+How do I use AI to learn faster without turning into someone who only copies answers
+```
+
+## One-Line Summary
+
+You are not installing a prompt that sounds like Dan Koe.  
+You are installing a creator decision protocol that helps you think, judge, write, position, and design a one-person business path more like Dan Koe would.
+
+<a id="install"></a>
+## Install
+
+Copy this repository into your Codex skills directory:
 
 ```powershell
 Copy-Item -Recurse .\dan-koe-skill C:\Users\<YourUser>\.codex\skills\
 ```
 
-Or clone/copy it directly to:
+or place it at:
 
 ```text
 ~/.codex/skills/dan-koe-skill
 ```
 
-Then restart Codex so the skill can be loaded.
+Then restart Codex.
 
-## Usage
+## Boundaries
 
-After installation and restart, prompts like these should trigger it:
-
-```text
-Use Dan Koe's perspective to analyze my content positioning
-What would Dan Koe think about my one-person business path
-I have too many interests. How would Dan Koe help me find my niche
-How would Dan Koe decide what AI should and should not replace
-Switch to Dan Koe mode and break down my personal brand strategy
-```
-
-## Example Prompts
-
-You can test the skill with questions like:
-
-- "Why does my content still have no clear identity?"
-- "Should I build products first or grow audience first?"
-- "Should I keep my job or start building a one-person business?"
-- "Which skills are still worth building slowly in the AI era?"
-- "I write a lot, but I still don't have a point of view. What's missing?"
-
-## Repo Structure
-
-```text
-dan-koe-skill/
-├── README.md
-├── README_EN.md
-├── SKILL.md
-├── LICENSE
-├── agents/
-│   └── openai.yaml
-└── references/
-    └── research/
-        ├── 01-writings.md
-        ├── 02-conversations.md
-        ├── 03-expression-dna.md
-        ├── 04-external-views.md
-        ├── 05-decisions.md
-        └── 06-timeline.md
-```
-
-## Research Sources
-
-The distilled framework is built mainly from:
-
-- Dan Koe's official site
-- essays and newsletters
-- `The Koe Cast`
-- public videos and transcripts
-- LinkedIn long-form posts
-- public Eden pages
-- external commentary and analysis
-
-See [SKILL.md](./SKILL.md) and `references/research/` for the fuller source trail.
-
-## Why This Exists
-
-Many people consume Dan Koe as a collection of catchy lines:
-
-- "You don't need a niche, you need a point of view."
-- "Productize your mind."
-- "Taste is the new intelligence."
-
-But the real value is not memorizing those lines. It is understanding the structure underneath them.
-
-This project exists to turn Dan Koe's decision framework into a reusable local skill.
-
-## Limitations
-
-This project has clear boundaries:
-
-- it is distilled from public material, not from Dan Koe himself
-- it is a thinking aid, not an authority
-- it is strongest on creator business, writing, AI leverage, and life design
-- for fact-sensitive questions, you should still verify current information
+- Built from public materials, not private access
+- Better used as a thinking aid than a final authority
+- Strongest on creator business, writing, personal brand, AI leverage, one-person business design, and life design
+- Time-sensitive facts should still be checked against the latest sources
 
 ## License
 
-This repository includes an MIT license in [LICENSE](./LICENSE).
+This repository uses the [MIT License](./LICENSE).
 
-## Credits
-
-- Dan Koe: source ideas and public material
-- Nuwa-style distillation workflow: inspiration for perspective extraction
-- Codex: structure, synthesis, and implementation
